@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**harshabhadra/harshabhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Harsha Bhadra
 
 - 🔭 I’m currently working on Alpha Business Design
 - 🌱 I’m currently learning Flutter
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: harshahelloworld@gmail.com
 - 😄 Pronouns: Harsha Bhadra
 - ⚡ Fun fact: I don't have a degree but I'm a professional developer
--->
+
