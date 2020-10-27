@@ -9,3 +9,5 @@
 - 😄 Pronouns: Harsha Bhadra
 - ⚡ Fun fact: I don't have a degree but I'm a professional developer
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshabhadra)](https://github.com/anuraghazra/github-readme-stats)
+
