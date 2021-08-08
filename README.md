@@ -6,7 +6,7 @@ I'm a self taught programmer currently working as an Mobile App Developer. I hav
 
 Skills: Java / Kotlin / Dart / Android / Flutter
 
-- 🔭 I’m currently working as Freelancer App Developer 
+- 🔭 I’m currently working as Android App Developer 
 - 🌱 I’m currently getting better at Flutter
 - 👯 I’m looking to collaborate on Android and Flutter 
 - 💬 Ask me about Android development and Flutter
