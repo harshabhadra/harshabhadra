@@ -2,7 +2,7 @@
 #### Mobile App Developer
 ![Mobile App Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFHAXpZn2ZeDA/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=WGNXxmIsq3-j9BC50Bzwif_e-QPT-EAeV0OXX5m22os)
 
-I'm a self taught programmer currently working as an Mobile App Developer. I have 2+ years of working experience in Android Development using both Java, Kotlin and in cross-platform development using Flutter.
+I'm a self taught programmer currently working as an Mobile App Developer. I have 3+ years of working experience in Android Development using both Java, Kotlin and in cross-platform development using Flutter.
 
 Skills: Java / Kotlin / Dart / Android / Flutter
 
